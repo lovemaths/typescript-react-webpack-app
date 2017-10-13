@@ -1,0 +1,30 @@
+{
+  "name": "typescript-react-webpack-app",
+  "version": "1.0.0",
+  "description": "App from https://www.typescriptlang.org/docs/handbook/react-&amp;-webpack.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovemaths/typescript-react-webpack-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovemaths/typescript-react-webpack-app/issues"
+  },
+  "homepage": "https://github.com/lovemaths/typescript-react-webpack-app#readme",
+  "dependencies": {
+    "@types/react": "^16.0.10",
+    "@types/react-dom": "^16.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3",
+    "source-map-loader": "^0.2.2",
+    "typescript": "^2.5.3"
+  }
+}
